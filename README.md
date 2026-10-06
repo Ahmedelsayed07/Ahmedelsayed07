@@ -66,7 +66,6 @@
 
 ### 📂 On this GitHub
 
-- 📄 [**Resume / CV**](https://github.com/Ahmedelsayed07/Ahmed-Elsayed)
 - 🧰 Training resources, sales cheat sheets and AI prompt packs from Corporate Hacks Academy *(coming soon)*
 
 ---
