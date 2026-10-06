@@ -20,6 +20,15 @@
 
 ---
 
+### 🚀 Projects
+
+**[Speak English Now](https://github.com/Ahmedelsayed07/speak-english-now)**: a 30-day spoken-English course for Arabic speakers, run on WhatsApp. This repo holds the system behind it: an AI Agent Skill that produces lessons, voice scripts, posters and PDFs, plus the build pipeline, brand and methodology.
+> Cohort 01: **550 enrolled · 250 completed (45%) · 170 used English in a real situation**
+
+**[Mr. Nori English Placement Test](https://claude.ai/artifact/WAZbqFcuhCCN8T3KrtDMiT)**: a free 20-question placement test (A1 → C2) in under 5 minutes, with instant results and a review of wrong answers.
+
+---
+
 ### 🛠️ What I work on
 
 | Area | Focus |
@@ -61,20 +70,6 @@
 - **ALX: AI Strategies for Business Growth**
 - **Sales Hackers vol. 1**
 - **Entrepreneurial Companies Path**, Emirates Association for Social Development (2026)
-
----
-
-### 📂 On this GitHub
-
-- 🧰 Training resources, sales cheat sheets and AI prompt packs from Corporate Hacks Academy *(coming soon)*
-
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ahmedelsayed07&show_icons=true&hide_border=true&theme=default" alt="GitHub stats"/>
-</p>
 
 ---
 
