@@ -24,7 +24,7 @@
 
 **[Corporate Hacks Academy website](https://ahmedelsayed07.github.io/corporate-hacks-academy/)**: the academy's bilingual (Arabic / English) site, with programmes, a free placement diagnostic, practice scenarios and sign-up.
 
-**[Speak English Now](https://github.com/Ahmedelsayed07/speak-english-now)**: a 30-day spoken-English course for Arabic speakers, run on WhatsApp. This repo holds the system behind it: an AI Agent Skill that produces lessons, voice scripts, posters and PDFs, plus the build pipeline, brand and methodology.
+**[Speak English Now](https://ahmedelsayed07.github.io/corporate-hacks-academy/)**: a 30-day spoken-English course for Arabic speakers, run on WhatsApp with daily lessons, voice-note practice and live workshops.
 > Cohort 01: **550 enrolled · 250 completed (45%) · 170 used English in a real situation**
 
 **[Mr. Nori English Placement Test](https://claude.ai/artifact/WAZbqFcuhCCN8T3KrtDMiT)**: a free 20-question placement test (A1 → C2) in under 5 minutes, with instant results and a review of wrong answers.
