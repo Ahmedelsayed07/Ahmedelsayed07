@@ -22,6 +22,8 @@
 
 ### 🚀 Projects
 
+**[Corporate Hacks Academy website](https://ahmedelsayed07.github.io/corporate-hacks-academy/)**: the academy's bilingual (Arabic / English) site, with programmes, a free placement diagnostic, practice scenarios and sign-up.
+
 **[Speak English Now](https://github.com/Ahmedelsayed07/speak-english-now)**: a 30-day spoken-English course for Arabic speakers, run on WhatsApp. This repo holds the system behind it: an AI Agent Skill that produces lessons, voice scripts, posters and PDFs, plus the build pipeline, brand and methodology.
 > Cohort 01: **550 enrolled · 250 completed (45%) · 170 used English in a real situation**
 
